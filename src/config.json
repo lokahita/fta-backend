@@ -1,0 +1,8 @@
+{
+    "base_domain": "http://localhost/geoportal/contributor",
+    "base_geoportal": "http://localhost/geoportal/",
+    "api_domain": "http://localhost/geoportal/api",
+    "proxy_domain": "http://103.56.148.38/magic/service.php/",
+    "geoserver_domain": "http://localhost/geoserver/",
+    "authorization": "Basic YWRtaW46bXlhd2Vzb21lZ2Vvc2VydmVy"
+}
